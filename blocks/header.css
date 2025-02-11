@@ -1,0 +1,25 @@
+.header__title{
+    width: 793px;
+    height: 200px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 100px;
+    margin: 0 95px 32px 96px;
+}
+
+.header__subtitle{
+    width: 720px;
+    height: 72px;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0 132px 64px;
+    line-height: 36px; /* 120% */
+}
